@@ -3,27 +3,33 @@
 
 ## 🔎 Acerca de mí
 
-```
-class Info
-  attr_reader :name, :birth, :nationality, :languages, :school, 
-              :occupation, :freetime, :favorite_music
-
-  def initialize
-    @name = 'Emanuel Tavares'
-    @birth = '17/12'
-    @nationality = ['Mexican']
-    @languages = [
-      { 'Spanish' => 'native' },
-      { 'English' => 'B2' },
-    ]
-    @school = 'Instituto Tecnológico de Ensenada'
-    @occupation = 'Student'
-    @freetime = ['Videogames', 'Reading', 'Programming', 'Listen Music', 'Photographer']
-    @favorite_music = ['Сова', 'Zoé', '王晰 (Wang Xi)', 'Кино', 'Mœnia']
-  end
-end
-```
-
+* Nombre:
+  * Emanuel Tavares
+* Cumpleaños:
+  * 17/12
+* Oriundo de:
+  * 🇲🇽
+* Hablo:
+  * Español ▶️ Nativo
+  * Inglés ▶️ B2
+* Estudios:
+  * Técnico en Electrónica
+  * Actualmente estudiando ingeniería en sistemas computacionales
+* Ocupación:
+  * Estudiambre
+* Me gusta:
+  * Videojuegos
+  * Leer
+  * Programar
+  * Escuchar música
+    * Сова
+    * Zoé
+    * 王晰 (Wang Xi)
+    * Кино
+    * Mœnia
+  * Hacer de [fotógrafo](https://t.me/grafiasDeLuz)
+  * Caminar sin rumbo
+  
 ---
 
 ## 🛠 Tech Stack
