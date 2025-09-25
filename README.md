@@ -4,7 +4,7 @@
 ## 🔎 Acerca de mí
 
 * Nombre:
-  * Emanuel Tavares
+  * Emanuel Alejandro T.
 * Cumpleaños:
   * 17/12
 * Oriundo de:
